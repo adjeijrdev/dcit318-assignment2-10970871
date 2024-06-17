@@ -1,0 +1,14 @@
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\MovableApp\bin\Debug\net8.0\MovableApp.exe
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\MovableApp\bin\Debug\net8.0\MovableApp.deps.json
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\MovableApp\bin\Debug\net8.0\MovableApp.runtimeconfig.json
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\MovableApp\bin\Debug\net8.0\MovableApp.dll
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\MovableApp\bin\Debug\net8.0\MovableApp.pdb
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\MovableApp\obj\Debug\net8.0\MovableApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\MovableApp\obj\Debug\net8.0\MovableApp.AssemblyInfoInputs.cache
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\MovableApp\obj\Debug\net8.0\MovableApp.AssemblyInfo.cs
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\MovableApp\obj\Debug\net8.0\MovableApp.csproj.CoreCompileInputs.cache
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\MovableApp\obj\Debug\net8.0\MovableApp.dll
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\MovableApp\obj\Debug\net8.0\refint\MovableApp.dll
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\MovableApp\obj\Debug\net8.0\MovableApp.pdb
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\MovableApp\obj\Debug\net8.0\MovableApp.genruntimeconfig.cache
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\MovableApp\obj\Debug\net8.0\ref\MovableApp.dll

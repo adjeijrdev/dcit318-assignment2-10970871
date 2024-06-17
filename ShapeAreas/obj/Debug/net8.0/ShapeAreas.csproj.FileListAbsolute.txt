@@ -1,0 +1,14 @@
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\AnimalSounds\ShapeAreas\bin\Debug\net8.0\ShapeAreas.exe
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\AnimalSounds\ShapeAreas\bin\Debug\net8.0\ShapeAreas.deps.json
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\AnimalSounds\ShapeAreas\bin\Debug\net8.0\ShapeAreas.runtimeconfig.json
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\AnimalSounds\ShapeAreas\bin\Debug\net8.0\ShapeAreas.dll
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\AnimalSounds\ShapeAreas\bin\Debug\net8.0\ShapeAreas.pdb
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\AnimalSounds\ShapeAreas\obj\Debug\net8.0\ShapeAreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\AnimalSounds\ShapeAreas\obj\Debug\net8.0\ShapeAreas.AssemblyInfoInputs.cache
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\AnimalSounds\ShapeAreas\obj\Debug\net8.0\ShapeAreas.AssemblyInfo.cs
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\AnimalSounds\ShapeAreas\obj\Debug\net8.0\ShapeAreas.csproj.CoreCompileInputs.cache
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\AnimalSounds\ShapeAreas\obj\Debug\net8.0\ShapeAreas.dll
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\AnimalSounds\ShapeAreas\obj\Debug\net8.0\refint\ShapeAreas.dll
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\AnimalSounds\ShapeAreas\obj\Debug\net8.0\ShapeAreas.pdb
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\AnimalSounds\ShapeAreas\obj\Debug\net8.0\ShapeAreas.genruntimeconfig.cache
+C:\Users\dansa\Documents\DCIT318-ASSIGNMENT-II\AnimalSounds\ShapeAreas\obj\Debug\net8.0\ref\ShapeAreas.dll
